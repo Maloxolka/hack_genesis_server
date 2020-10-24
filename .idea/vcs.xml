@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../../../../xampp/htdocs/demoShop_server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../../xampp/htdocs/hackathon_park_server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
