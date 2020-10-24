@@ -1,0 +1,177 @@
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "removeTicker",
+  "params": {
+    "id_user": 1,
+    "ticker": "AAAA",
+    "amount": 2
+  }
+}
+
+<> 2020-10-24T102322.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "removeTicker",
+  "params": {
+    "id_user": 1,
+    "ticker": "AAAA",
+    "amount": 2
+  }
+}
+
+<> 2020-10-24T102220.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "addTicker",
+  "params": {
+    "id_user": 1,
+    "ticker": "AAAA",
+    "amount": 5
+  }
+}
+
+<> 2020-10-24T102210.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "addTicker",
+  "params": {
+    "id_user": 1,
+    "ticker": "AAAA",
+    "amount": 5
+  }
+}
+
+<> 2020-10-24T101830.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "addTicker",
+  "params": {
+    "id_user": 1,
+    "ticker": "AAAA",
+    "amount": 5
+  }
+}
+
+<> 2020-10-24T101618.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "removeTicker",
+  "params": {
+    "id_user": 1,
+    "ticker": "AAAA",
+    "amount": 2
+  }
+}
+
+<> 2020-10-24T101545.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "getTicker",
+  "params": {
+    "id_user": 1
+  }
+}
+
+<> 2020-10-24T101420.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "getTicker",
+  "params": {
+    "id_user": 1
+  }
+}
+
+<> 2020-10-24T101407.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "getTicker",
+  "params": {
+    "id_user": 1
+  }
+}
+
+<> 2020-10-24T101341.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "getTicker",
+  "params": {
+    "id_user": 1
+  }
+}
+
+<> 2020-10-24T101304.200.html
+
+###
+
+POST http://localhost/hack_genesis_server/bin/User/index.php
+Content-Type: application/json
+
+{
+  "v": "2.0",
+  "method": "getTicker",
+  "params": {
+    "id_user": 1
+  }
+}
+
+<> 2020-10-24T101149.200.html
+
+###
+

@@ -1,0 +1,11 @@
+{"result":[],"error":null}
+{"result":[{"ticker":"AAAA","0":"AAAA","amount":"6","1":"6"}],"error":null}
+{"result":[{"id_user":"1","0":"1","ticker":"AAAA","1":"AAAA","amount":"6","2":"6"}],"error":null}
+{"result":[{"id_user":"1","0":"1","ticker":"AAAA","1":"AAAA","amount":"6","2":"6"},{"id_user":"1","0":"1","ticker":"BBBB","1":"BBBB","amount":"2","2":"2"}],"error":null}
+{"result":[{"ticker":"AAAA","0":"AAAA","amount":"6","1":"6"},{"ticker":"BBBB","0":"BBBB","amount":"2","1":"2"}],"error":null}
+{"result":false,"error":null}
+{"result":true,"error":null}
+{"result":true,"error":null}
+{"result":true,"error":null}
+{"result":false,"error":null}
+{"result":true,"error":null}
