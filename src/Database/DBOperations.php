@@ -161,4 +161,19 @@ class DBOperations {
         return $result;
     }
 
+    public function getMoney($id_user) {
+        $sql = 'SELECT * FROM users WHERE id_user = :id_user';
+
+        $query = $this->conn->prepare($sql);
+        $query->execute(
+            array(
+                ':id_user' => $id_user,
+            )
+        );
+
+        $result = $query->fetchObject();
+
+        return $result->money_start;
+    }
+
 }

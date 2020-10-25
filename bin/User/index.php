@@ -47,6 +47,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 } else {
                     echo error(ERR_INVALID_PARAMS, $method);
                 }
+            } elseif ($method == "getMoney") {
+                if ($check->check($params)) {
+                    echo $methods->getMoney($params);
+                } else {
+                    echo error(ERR_INVALID_PARAMS, $method);
+                }
             } else {
                 echo error(ERR_METHOD_NOT_FOUND, $method);
             }

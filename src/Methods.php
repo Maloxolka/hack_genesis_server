@@ -48,6 +48,13 @@ class Methods {
         return  $this->rpc->makeResultResponse($db->getTicker($id_user));
     }
 
+    public function getMoney($data) {
+        $db = $this->db;
+        $id_user = $data->id_user;
+
+        return  $this->rpc->makeResultResponse($db->getMoney($id_user));
+    }
+
     public function isEmailValid($email): bool {
         return preg_match(PATTERN_EMAIL, $email);
     }
